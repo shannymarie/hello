@@ -1,0 +1,16 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+header{
+    padding: 20px 200px;
+    background-color: aquamarine;
+    width: 100%;
+   display: flex;
+   justify-content: space-between; 
+   align-items: center;
+   z-index: 99;
+}
